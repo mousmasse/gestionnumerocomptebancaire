@@ -5,6 +5,7 @@ public class NumeroCompteBancaire {
 	private long numGuichet;
 	private String numeroCompte;
 	private long cleRib;
+	private String test;
 	
 	public NumeroCompteBancaire() {
 		super();
