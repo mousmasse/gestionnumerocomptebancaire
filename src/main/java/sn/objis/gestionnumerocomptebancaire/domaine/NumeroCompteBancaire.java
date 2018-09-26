@@ -6,6 +6,7 @@ public class NumeroCompteBancaire {
 	private String numeroCompte;
 	private long cleRib;
 	private String test;
+	private int mousmasse;
 	
 	public NumeroCompteBancaire() {
 		super();
